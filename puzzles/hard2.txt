@@ -1,0 +1,78 @@
+eats:0:0:a:Bolts down
+lamas:5:0:a:Buddhist blessers
+rife:11:0:a:Teeming (with)
+swap:0:1:a:give this for that
+exist:5:1:a:Survive
+edam:11:1:a:Cheese with a red coat
+tarantella:0:2:a:Lively Italian folk dance
+foci:11:2:a:Central points
+erodes:0:3:a:Undermines
+epaulet:8:3:a:Soldier's shoulder piece
+reset:0:4:a:Put a counter to zero
+preens:6:4:a:Smooths ruffled feathers
+sweepstakes:4:5:a:Promotional lotteries
+acs:0:6:a:Rm. coolers
+hex:5:6:a:Evil spell
+slice:10:6:a:Pizzeria purchace
+jut:0:7:a:Protrude
+son:4:7:a:George W. Bush, to George H.W. Bush
+bay:8:7:a:Cargo compartment
+the:12:7:a:Pooh's middle name
+abaft:0:8:a:to the rear
+maw:7:8:a:Gaping mouth
+hop:12:8:a:Bounce like a kangaroo
+regrettable:0:9:a:Too bad
+unripe:3:10:a:Green
+pasta:10:10:a:Orzo or ziti
+impious:0:11:a:Disrespectful
+misled:9:11:a:Threw off
+bait:0:12:a:Lure
+cappuccino:5:12:a:Starbucks offering
+isle:0:13:a:Sea spot
+knees:5:13:a:Joints with caps
+odor:11:13:a:Skunk's funk
+shed:0:14:a:Let fall
+serge:5:14:a:Twill weave
+tern:11:14:a:Little gull
+ester:0:0:d:Any acetate, chemically
+awares:1:0:d:Clued in
+taros:2:0:d:Edible tubers
+spade:3:0:Sturdy hand shovel
+lets:5:0:d:Shall we? response
+axe:6:0:d:Fireman's tool
+mil:7:0:d:Inch fraction
+asleep:8:0:d:Like someone sawing logs, so to speak
+stapes:9:0:d:Ear bone
+refusal:11:0:d:Proposer's fear
+idol:12:0:d:Object of pegan worship
+face:13:0:d:Confront
+emit:14:0:d:Give off
+nets:5:2:d:Takes home
+antsy:10:3:d:Unable to sit still
+peen:6:4:d:Part of a hammer head
+pex:7:4:d:Mardi Gras luminary
+who:5:5:d:'Quadrophenia' band, with 'The'
+kith:12:5:d:Part of kin
+echo:13:5:d:Sound on the rebound
+seep:14:5:d:Leak slowly
+ajar:0:6:d:Nearly closed
+cube:1:6:d:Take to a higher power
+stag:2:6:d:Kind of beetle
+steno:4:7:d:Minutes taker, perhaps
+babe:8:7:d:Paul's ox
+awl:9:7:d:Hole punch
+fruited:3:8:d:'America the Beautiful' adjective
+map:7:8:d:Navigator's need
+trucks:5:9:d:Overland haulers
+tisane:6:9:d:Barley tea
+epic:10:9:d:Multigenerational story
+ascot:11:10:d:Fancy tie
+slide:12:10:d:Type of guitar
+tenor:13:10:d:Opera hero, usually
+adorn:14:10:d:Trim
+ibis:0:11:d:Sacred bird of Egypt
+mash:1:11:d:Jamie Farr's breakout series
+pile:2:11:d:Fortune
+muse:9:11:d:Ponder
+per:7:12:d:A pop
+peg:8:12:d:Links tee

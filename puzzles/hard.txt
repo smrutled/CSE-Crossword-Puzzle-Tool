@@ -1,0 +1,76 @@
+shim:1:1:a:Leveling wedge
+spice:1:1:d:Clove or cinnamon
+humor:2:1:d:Comedy Club Serving
+imams:3:1:d:Mosque officials
+mamma:4:1:d:'____ Mia!'
+soul:6:1:a:Body's companion
+stanza:6:1:d:Piece of poetry
+oils:7:1:d:Keeps from squeaking
+urge:8:1:d:Strongly advise
+lean:9:1:d:Show partiality
+corps:11:1:a:Word with Peace or Job
+coped:11:1:d:Managed
+obi:12:1:d:'Shogun' sash
+reabsorbs:13:1:d:Takes up again
+pane:14:1:d:Plate of glass
+shoe:15:1:d:Loafer, for instance
+puma:1:2:a:Mountain lion
+tire:6:2:a:Word before irons or chains
+obeah:11:2:a:Religious belief that involves sorcery
+imam:1:3:a:Shiite leader
+alga:6:3:a:Pond organism
+piano:11:3:a:It could be a grand
+commonsense:1:4:a:Good judgement
+otter:5:4:d:Web-footed mammal
+sods:10:4:d:Repairs the outfield
+bee:13:4:a:Apiary occupant
+ersatz:1:5:a:Not the real thing
+odds:10:5:a:Track figures
+dogma:12:5:d:Church holding
+tabled:5:6:a:Put on the back burner
+bytes:7:6:d:Data storage units
+lions:8:6:d:Savanna predators
+epode:9:6:d:Lyric poem
+oops:12:6:a:'Clumsy me!'
+pies:14:6:d:Diner desserts
+spry:15:6:d:Nimble
+gauge:1:7:a:Gas meter, for one
+gold:1:7:d:Olympian's quest
+away:2:7:d:On vacation, perhaps
+undertone:3:7:d:Murmor
+geese:4:7:d:They honk and hiss
+yips:7:7:a:Sharp barks
+grip:12:7:a:Film crew member
+owner:1:8:a:Owner
+too:7:8:a:Excessibely
+amber:11:8:a:Traffic light color
+lade:1:9:a:Take on cargo
+bend:6:9:a:Be flexibleball
+sassy:11:9:a:Impudent
+dyes:1:10:a:Turns red, perhaps
+assets:6:10:a:They're good to hold
+themes:10:10:d:Subject matters
+real:3:11:a:Down-to-earth
+achec:5:11:d:Has lumbago
+helper:10:11:a:Hand lender
+llama:12:11:d:Andes pack animal
+pined:13:11:d:Yearned
+ended:14:11:d:Finito
+rests:15:11:d:Musical symbols
+ret:1:12:a:Out of work? (abbr.)
+revs:1:12:d:Guns in the garage
+epee:2:12:d:Olympic weapon
+clothesline:5:12:a:Cordin some backyards
+owls:7:12:d:Night birds
+thou:8:12:d:K or G
+hire:9:12:d:'Spenser For ___' (Urich series)
+epoch:1:13:a:Geological span
+cur:4:13:d:Varlet
+whim:7:13:a:Passing fancy
+ands:12:13:a:'No ifs, ___, or buts!'
+venue:1:14:a:Trial setting
+lore:7:14:a:Old wives' tales and such
+meet:12:14:a:Bump into
+seerc:1:15:a:Visionaries
+sues:7:15:a:Litigates
+adds:12:15:a:Sums up
