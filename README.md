@@ -5,6 +5,7 @@ This app was develope for a cse class. Some feature were required by the custome
 
 ###Description
 It is a crossword puzzle management tool.
+
 Features:
 * User account - create,edit,delete
 * Save and load crossword games
@@ -14,5 +15,5 @@ Features:
 
 
 ###Tools & Tech
-Lang: Java
+Lang: Java<br />
 IDE: Netbeans
